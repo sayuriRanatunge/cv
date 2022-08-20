@@ -1,0 +1,23 @@
+body {
+  background-color: #DFE8CC;
+}
+
+hr {
+  border-color: #CCD6A6;
+  border-style: dotted none none;
+  border-width: 5px;
+  width: 5%;
+}
+
+img {
+  width: 150px;
+}
+
+h1 {
+  color: #809A6F;
+  font-family: Garamond, serif;
+}
+
+h3 {
+  color: #809A6F;
+}
